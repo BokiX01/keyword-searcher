@@ -8,7 +8,7 @@ DESCRIPTION:
 RUNNING INSTRUCTIONS:
 1. You need Python installed on your computer
 2. Run "script.py"
-3. Check "results.txt" file for results
+3. Check the "results.txt" file for results
 
 IMPORTANT:
 - DO NOT use this script to steal data from anybody WITHOUT PERIMISSION!
